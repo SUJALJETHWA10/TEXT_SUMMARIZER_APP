@@ -1,4 +1,4 @@
-# 📝 Text Summarizer App Using T5 Transformer
+# 📝 Text Summarizer App Using HuggingFace Transformer
 
 A powerful **AI-powered Text Summarization Web Application** built using **FastAPI**, **Hugging Face Transformers**, and **T5 (Text-to-Text Transfer Transformer)**. This application converts long text into concise and meaningful summaries while preserving important information.
 
